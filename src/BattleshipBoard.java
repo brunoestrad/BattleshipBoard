@@ -164,7 +164,7 @@ public class BattleshipBoard {
 
 		boolean emptyBoard = false;
 		short noShipsBoard = 9999;
-
+		
 		// Check for empty board
 		for (char i = 0; i < board.length; i++) {
 
